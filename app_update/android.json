@@ -1,8 +1,8 @@
 {
   "platform": "android",
   "metadataVersion": 1,
-  "latestVersion": "1.0.2",
-  "latestBuildNumber": 2,
+ "latestVersion": "1.0.3",
+"latestBuildNumber": 3,
   "minimumSupportedVersion": "1.0.0",
   "minimumSupportedBuildNumber": 1,
   "apkDownloadUrl": "https://github.com/nutritionhub22/NexFollo-Updates/releases/latest/download/app-release.apk",
